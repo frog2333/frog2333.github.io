@@ -1,0 +1,100 @@
+body {
+	background-color: palegreen;
+	background-image: url(5e7a0cb7190ca_1585056951.jpg);
+	color: white;
+}
+div.images {
+	display: flex;
+	background-color: conic-gradient;
+}
+
+div.blockimg {
+	background-color: blue;
+	background-size: cover;
+	width: 33.3%;
+	height: 250px;
+	background-image: url(wraith.jpg);
+	margin: 20px;
+}
+
+div.img1 {
+	background-image: url(img1.jpg);
+}
+
+div.img2 {
+	background-image: url(img2.jpg);
+}
+
+div.img3 {
+	background-image: url(img3.jpg);
+}
+
+div.img4 {
+	background-image: url(img4.png);
+	
+}
+
+<li><a href="#">Лучшие герои по моему мнению</a></li>
+<li><a href="#">Все герои Dota 2 </a></li>
+<li><a href="#">Мои контакты</a></li>
+background-color white
+
+body {
+  background-color: aqua;
+}
+
+.cl {
+  display: inline-block;
+  width: 100px;
+  height: 100px;
+  margin-top: 50px;
+}
+
+.im{
+  width: 50px;
+  height: 50px;
+}
+header h1 {
+  font-size: 70px;
+  font-weight: 600;
+  background-image: linear-gradient(to right, #553c9a 45%, #ee4b2b);
+  color: transparent;
+  background-clip: text;
+  -webkit-background-clip: text;
+ 
+}
+
+p.pw {
+	width: 50%;
+	font-size: 21px;
+}
+
+a {
+	font-weight: bold;
+	color: white;
+	font-size: 70px;
+	text-decoration: none;
+}
+
+.gradient-button {
+    text-decoration: none;
+    display: inline-block;
+    color: white;
+    padding: 20px 30px;
+    margin: 10px 20px;
+    border-radius: 10px;
+    font-family: 'Montserrat', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    background-image: linear-gradient(to right, #9EEFE1 0%, #4830F0 51%, #9EEFE1 100%);
+    background-size: 200% auto;
+    box-shadow: 0 0 20px rgba(0, 0, 0, .1);
+    transition: .5s;
+    
+  }
+  .gradient-button:hover {
+    background-position: right center;
+  }
+  mark {
+  	font-size: 30px;
+  }
